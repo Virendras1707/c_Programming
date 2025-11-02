@@ -1,10 +1,12 @@
+# Assignment 2 :
+
 This folder contains warmup codes which are:-
 
-    Used to prime number of stars given by user
-    Used print * by taking input from user
-    Display string based on condition
-    used to display same number in multiple of another number
-    used to check weather number is even or odd.
+    1. Used to prime number of stars given by user
+    2. Used print * by taking input from user
+    3. Display string based on condition
+    4. used to display same number in multiple of another number
+    5. used to check weather number is even or odd.
 
 To execute these codes I used commands:-
 
